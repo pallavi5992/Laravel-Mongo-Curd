@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5f647fcc640b00003e0027f9"},"name":"Television","type":"LCD","qty":"4","updated_at":{"$date":"2020-09-18T11:10:58.432Z"},"created_at":{"$date":"2020-09-18T09:37:16.994Z"}}
+{"_id":{"$oid":"5f648134640b00003e0027fa"},"name":"cellphone","type":"mobile","qty":"3","updated_at":{"$date":"2020-09-18T11:10:02.061Z"},"created_at":{"$date":"2020-09-18T09:43:16.021Z"}}
+{"_id":{"$oid":"5f648284640b00003e0027fb"},"name":"laptop","type":"mac","qty":"1","updated_at":{"$date":"2020-09-18T09:48:52.524Z"},"created_at":{"$date":"2020-09-18T09:48:52.524Z"}}
+{"_id":{"$oid":"5f64882a640b00003e0027fd"},"name":"pc","type":"windows","qty":"2","updated_at":{"$date":"2020-09-18T11:09:30.527Z"},"created_at":{"$date":"2020-09-18T10:12:58.799Z"}}

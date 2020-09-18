@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5f6458974d49000056001bf2"},"name":"admin","email":"admin@gmail.com","password":"$2y$10$CMAGhGzAvPyXLQCsESIp/uUnSmr3cshczbw7bm3M4lAZ0jtIM6rNq","updated_at":{"$date":"2020-09-18T06:49:59.310Z"},"created_at":{"$date":"2020-09-18T06:49:59.310Z"}}
+{"_id":{"$oid":"5f645cf74d49000056001bf3"},"name":"Pallavi Raj","email":"pallaviraj5992@gmail.com","password":"$2y$10$5VQiqLZ6ssQyFHd4he1sEO8BHvvVBztPo7bz0oOksf.ZURxU9rBpy","updated_at":{"$date":"2020-09-18T07:08:39.926Z"},"created_at":{"$date":"2020-09-18T07:08:39.926Z"}}
